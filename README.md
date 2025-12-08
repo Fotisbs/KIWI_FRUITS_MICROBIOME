@@ -1,4 +1,4 @@
-# ***Inside the kiwifruit microcosm: tissue-specific microbiome shifts driven by cold storage and 1-MCP***
+# **Inside the kiwifruit microcosm: tissue-specific microbiome shifts driven by cold storage and 1-MCP**
 
 ### By Fotios Bekris <sup>1+</sup>, Marios Georgios Kollaros <sup>2+</sup>, Michail Michailidis <sup>2</sup>, Dimitrios G. Karpouzas <sup>1*</sup>, Athanassios Molassiotis <sup>2*</sup>
 
