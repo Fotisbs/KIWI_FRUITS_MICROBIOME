@@ -15,10 +15,10 @@
 For obtaining the code the users need to open a terminal and having the [GitHub tools](https://github.com/git-guides/install-git), git-clone or download the repository, and enter the base folder. E.g:
 
 ```
-$ git clone https://github.com/Fotisbs/Grapevine_Vinifications_Vidiano_2019-.git
+$ git clone https://github.com/Fotisbs/KIWI_FRUITS_MICROBIOME.git
 ```
 
-In the case of the computational methods, with the "Grapevine_Vinifications_Vidiano_2019-" folder as working directory, and assuming that the necessary software and R packages are installed, the used code can be executed as described in this Readme.md file. The necessary datasets for performing all sequencing based analysis can be downloaded implementing the code provided in the corresponding repository folders as explained below.
+In the case of the computational methods, with the "KIWI_FRUITS_MICROBIOME" folder as working directory, and assuming that the necessary software and R packages are installed, the used code can be executed as described in this Readme.md file. The necessary datasets for performing all sequencing based analysis can be downloaded implementing the code provided in the corresponding repository folders as explained below.
 
 ## Description of the order of executed scripts.
 
