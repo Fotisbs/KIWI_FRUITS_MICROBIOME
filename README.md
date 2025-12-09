@@ -93,22 +93,26 @@ tar vxf *.gz
 Bacteria Quality-Classification-Phyloseq Object.r
 cd ../../
 ```
-3) Data analysis folder include subfolders for each analysis graphs supplied at the researched article "Inside the kiwifruit microcosm: tissue-specific microbiome shifts driven by cold storage and 1-MCP". Subfolders contain the R script to be executed for "Fungi" and "Bacteria" for both main and supplementary figures. 
+3) Data analysis folder include subfolders for each analysis graphs supplied at the researched article "Inside the kiwifruit microcosm: tissue-specific microbiome shifts driven by cold storage and 1-MCP". Subfolders contain the R script to be executed for "Fungi" and "Bacteria" for both main and supplementary figures. Follow the scripts to replicate the results.
 ```
 
-3a. Run Bar Plots Analysis
+3a. Run the α-diversity Analysis (Main Figure)
 
-3b. Run NMDS Analysis
+3b. Run the NMDS Analysis (Main Figure)
 
-3c. Run PERMANOVA Analysis
+3c. Run the Differential Abundance (DA) heatmaps Analysis (Main Figure)
 
-Further on continue for the supplementary graphs
+3d. Run the NMDS Triplot Analysis (Main Figure)
 
-3d. Run Rarefaction curves
+Further on continue with the supplementary figures
 
-3e. Run The α-diversity Shannon index
+3e. Run the Rarefaction Curves Analysis (Supplementary)
 
-3f. Run the Differential abundance (DA) heatmaps for microbiome dataset
+3f. Run the Bar Plots Analysis (Supplementary)
+
+3g. Run the NMDS Analysis (per tissue) (Supplementary)
+
+3h. Run the PERMANOVA Analysis (Supplementary)
 ```
 
 
