@@ -112,7 +112,7 @@ Further on continue with the supplementary figures
 
 3g. Run the NMDS Analysis (per tissue) (Supplementary)
 
-3h. Run the PERMANOVA Analysis (Supplementary)
+3h. Run the PERMANOVA and the Pair-Wise PERMANOVA Analysis (Supplementary)
 ```
 
 
